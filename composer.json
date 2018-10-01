@@ -1,0 +1,17 @@
+{
+    "name": "erub/php-ipaddr",
+    "description": "ipaddr",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "6.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "TbhT",
+            "email": "hustapple132@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
